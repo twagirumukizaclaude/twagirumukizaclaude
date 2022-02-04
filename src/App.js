@@ -1,7 +1,9 @@
 
 // import Sidebar from './Componet/Sidebar';
-import Card from './Componet/Card';
+// import Card from './Componet/Card';
 // import Addhouse from './Componet/Addhouse'
+// import Rent from './Componet/Rent';
+import Sale from './Componet/Sale';
 
 
 
@@ -12,9 +14,12 @@ function App() {
         <p>
         
         </p>
+        <Sale/>
+        {/* <Rent/> */}
         {/* <Sidebar/> */}
-        <Card/>
+        {/* <Card/> */}
         {/* < Addhouse/> */}
+        
     </div>
     
   );
